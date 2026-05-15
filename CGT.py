@@ -17,7 +17,7 @@ console.clear()
 _2 = 'R'
 
 filename = "found.txt"
-batch_size = 1000000
+batch_size = 100
 
 _3 = 'Y'
 
